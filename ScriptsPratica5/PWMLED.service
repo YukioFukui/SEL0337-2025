@@ -1,0 +1,11 @@
+[Unit]
+Description = PWMLED
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python3  /home/sel/Enzo_Thierry/pratica5/PWMLED.py
+ExecStop = /usr/bin/python3 /home/sel/Enzo_Thierry/pratica5/blink.py
+user=SEL
+
+[Install]
+WantedBy=multi-user.target
