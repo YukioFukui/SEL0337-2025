@@ -1,0 +1,71 @@
+commit 6697d7a6e0a5be47f9f2859fba2564a53c3fae9d
+Author: YukioFukui <yukiofukui@usp.br>
+Date:   Mon Dec 8 15:30:37 2025 +0000
+
+    Arquivos pratica 5
+
+commit 6309c998f6af6c2d668d0c3eff177ab525904d7e
+Author: YukioFukui <yukiofukui@usp.br>
+Date:   Sun Dec 7 22:54:32 2025 +0000
+
+    teste README
+
+commit 21115c67decafea61645a2bd5a1f95411042fa33
+Author: YukioFukui <yukiofukui@usp.br>
+Date:   Sun Dec 7 22:44:38 2025 +0000
+
+    ignorar
+
+commit 04dd2dbb25e839e0585409a4ee60e6b5233fd4e4
+Author: YukioFukui <yukiofukui@usp.br>
+Date:   Sun Dec 7 22:41:45 2025 +0000
+
+    renomeacao
+
+commit fa876c2a7711bb162addb878a5a6eca8b9e44a0b
+Author: YukioFukui <yukiofukui@usp.br>
+Date:   Sun Dec 7 22:40:22 2025 +0000
+
+    Alteracao de local
+
+commit 719a81f0e0d54e04b8cb8c7591767e3e3e5158b8
+Author: YukioFukui <yukiofukui@usp.br>
+Date:   Sun Dec 7 22:36:54 2025 +0000
+
+    Arquivo n necessário
+
+commit 5b512cfa8c4c07a7805a7d10a075c1730dfd7910
+Author: YukioFukui <yukiofukui@usp.br>
+Date:   Sun Dec 7 22:33:35 2025 +0000
+
+    atualizacao da lib X
+
+commit 2ee707c9f5398f16e68db93988fd2be322971579
+Author: YukioFukui <yukiofukui@usp.br>
+Date:   Sun Dec 7 22:26:15 2025 +0000
+
+    Enviando arquivo teste
+
+commit c1c11d19a19bd7ed237d446dcf011e6ded0b9070
+Author: YukioFukui <158204896+YukioFukui@users.noreply.github.com>
+Date:   Mon Dec 1 11:29:55 2025 -0300
+
+    Update token
+
+commit 1f9488d86184772f6e959dfec9cf021cca7a0284
+Author: YukioFukui <158204896+YukioFukui@users.noreply.github.com>
+Date:   Mon Dec 1 11:20:30 2025 -0300
+
+    Update token
+
+commit a0a6a5d056bd01da3128adf2c81aae26ecf1b9b8
+Author: YukioFukui <158204896+YukioFukui@users.noreply.github.com>
+Date:   Mon Dec 1 10:55:13 2025 -0300
+
+    Create token
+
+commit 1aad5c1429f33ebf3ebcb45be03404f99368de10
+Author: YukioFukui <158204896+YukioFukui@users.noreply.github.com>
+Date:   Mon Dec 1 10:19:23 2025 -0300
+
+    Initial commit
